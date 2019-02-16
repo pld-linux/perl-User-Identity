@@ -8,13 +8,13 @@
 Summary:	Mail::Identity - an e-mail role
 #Summary(pl.UTF-8):
 Name:		perl-User-Identity
-Version:	0.93
+Version:	0.99
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://search.cpan.org/CPAN/authors/id/M/MA/MARKOV/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	c6efb646ea66ef7c479b0eed2a24480d
+# Source0-md5:	c5c61e5c05b20bafcb293b2b2fdddc4b
 URL:		http://search.cpan.org/dist/User-Identity/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
